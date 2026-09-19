@@ -1,0 +1,6 @@
+{
+  "name": "Blue Diamon Auto",
+  "description": "Premier pre-owned vehicle dealership featuring live inventory and prices synced from Google Docs, special deals, dealership story, and interactive Google Maps location.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
